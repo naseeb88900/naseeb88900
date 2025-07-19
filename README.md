@@ -2,7 +2,7 @@
 
 📍 **Remote | Pakistan (EU/US Timezones)**  
 📧 [naseebahmed7263@gmail.com](mailto:naseebahmed7263@gmail.com)  
-🔗 [LinkedIn](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/naseeb-ahmed-1a3b481b9/)  
 
 ---
 
@@ -61,9 +61,6 @@ AWS ☁️ | Docker 🐳 | GitLab CI/CD | Figma 🎨 | Notion | Jira | Prometheu
 ---
 
 ## 📊 Featured Projects
-
-### 🌐 Crypto Commerce UI *(Concept)*  
-Wallet-connected React interface built for a decentralized marketplace.
 
 ### 📈 SmartContent Insight Dashboard  
 Content clarity/tone scoring dashboard powered by GPT-4 & Google Trends APIs.
