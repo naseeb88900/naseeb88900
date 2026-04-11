@@ -1,7 +1,7 @@
 # 👨‍💻 Naseeb Ahmed Mian — Frontend Engineer
 
 📍 **Remote | Pakistan (EU/US Timezones)**  
-📧 [naseebahmed7263@gmail.com](mailto:naseebahmed7263@gmail.com)  
+📧 [naseeb.ahmed.work@gmail.com](mailto:naseeb.ahmed.work@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/naseeb-ahmed-1a3b481b9/)  
 
 ---
